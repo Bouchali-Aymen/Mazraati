@@ -7,10 +7,10 @@ This repository contains links to both the frontend and backend repositories for
 
 The frontend of this project is built with **Next.js** and **CSS**. You can find the source code here:
 
-[Frontend Repository](https://github.com/Bouchali-Aymen/Mazraati-frontend)
+[Frontend Repository](https://github.com/Bouchali-Aymen/Farm-Frontend)
 
 ## Backend
 
 The backend is built using **Node.js**, **Express.js**, and **MySQL**. You can find the source code here:
 
-[Backend Repository](https://github.com/Bouchali-Aymen/Mazraati-backend)
+[Backend Repository](https://github.com/Bouchali-Aymen/Farm-Backend)
